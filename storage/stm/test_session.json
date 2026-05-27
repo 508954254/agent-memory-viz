@@ -1,0 +1,17 @@
+[
+  {
+    "role": "user",
+    "content": "你好，我喜欢用中文交流",
+    "timestamp": 1779784963.871414
+  },
+  {
+    "role": "assistant",
+    "content": "好的，我记住了",
+    "timestamp": 1779784963.8724139
+  },
+  {
+    "role": "user",
+    "content": "帮我写一段Python代码",
+    "timestamp": 1779784963.8724139
+  }
+]
